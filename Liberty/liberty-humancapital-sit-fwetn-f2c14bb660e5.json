@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "liberty-humancapital-sit-fwetn",
+  "private_key_id": "f2c14bb660e558bd9fc5c6137b77a81329aaf09b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDPnfMkTpiRbF18\nUojCXKUofsuJoo9g+G6iE1N5805PWLqoGVyBepph5D5AAT5LIie4ZMC5x8D3BrPN\nbUXCuVOTYPTIjtmiLHU+KTYsbWxDNK6Hg7xPGh/NrYTefBhn6mZmW0vX/kAujysW\nHWGpVJXCdHnOvUmwwU9haIs/Vocn9qmg9OyyE6PiwDcMQYfXnuCe3Dy5Pj531tKE\nGcWkw8AaUo+jXDLSTRICtrU14vE5fn+AX7sIst9rRj1rPc4IDgQOOczTK2A7cGzR\nBt9ZGfpOsEBk10Y4AouE3grP7i7PRldJuFMMFNbG8+FxMLMYujFzSFh/K9RrolKu\nugfErxF5AgMBAAECggEAM3xvwsHz72JQd6dvD0YS1g1Fk+L6i/ln1C0XPy+RbLds\nCIpLiLd7CAomTtCQHmlAsOdZbOjmx0vD9I5j5aN4YJzDb2YPffpo88qcCt3y4mKy\n4lvOq84mc2bTw6nCEqkMDleXIiAE0hcCgBg2sxuNDP0+BMEnwFvb/+PBXmpql4PP\nPTg0cUC7dj5JZgMqItXMUgwp77NdEuw+3drJ/lLheCFOSGShDelcXT8cWoJff4bG\nVYRO0zRRTZm5SrGZ9SgWfVJXU18n7koPWMgihB2nzftjRuBV/6GuGTRyJPjMk5AT\nJ3fVlB+nvufV89k26nhGCIzLW8BpWGrRDQg+Fb4DlQKBgQDxFHC7bnvXhchAYjtr\noky2bwBbQ3N9u7rxwYgNxmZVpYN06CiFeQ4B3t+dohd7E/nxivqXjfrT8YvlSQ8G\nc5vjBdMUbmCfiQ0aUCBaRc55KfsN67MEfyJBPN0oyNty1Z2A4iS5GywoKzfBlMF1\ntP9RcfP8nrhPjeDD5cTPWFcn7QKBgQDcd1bSNxhfL0/7SlnoHhaZ8ou5hBsE3zrm\ndulY3ljh88JXzyQTcUDSqNkAGv7g9tBRe7wfLM8W4osCHnGCV+JGT4DEbLUe9KXC\nuo9KUFN01M/0hY1akyrzDeYXem9xoiwh0acDt9Q+DcmWJDBIu1d5Xb5KUBxM7krz\nwGl0O4cGPQKBgQDRQcLQjogkfVVivWGCffBEcnlGvnei7a7JZglom4v8T5yZf2Kc\n6ITGDuTe+PGUvbQ4e0AlCPJtwb6CmTXXjcYD+uxLUbvA/r9G1cIfWXRtK4llfe93\nubrMEb6ORjplpRH/60ug+PsNKuZMu4hpWWA9G8KCxmqJc0dkAy8gIzgTyQKBgQCU\nN7crBNdhxtEixE3Fe9T+Es5VHrd7gwh6QJ+Im5Nt9Q9HMX+zgoRuHA4nv/5zB/vt\njB5hZyKi5BNIjWcKlkMNug18AQmTki6OyBXlhDNXbGuSnOb3adGKLmHujuW1o62/\n3s9F9KTAQ0yvoAzGGQ0qDxgLpegg4GOLlGRRPGP+kQKBgQCrD8CbtuFZDi1sDMjS\nly4tlJ4FoykCPNJTNlLgmR4OkaWGYGhFvWUFpkc5oQ4gMAIsAqySEDNVldSXj0fY\ndXe8jEoZ5moZ3XkElPQfTlh9ozMEQmsTGAnTeXxV227gYxYN54mK5Dv6A6aBnaaY\ntTUUy47sog+b90woZ8svJM8bBw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-xgdscl@liberty-humancapital-sit-fwetn.iam.gserviceaccount.com",
+  "client_id": "108964129571185918987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-xgdscl%40liberty-humancapital-sit-fwetn.iam.gserviceaccount.com"
+}
